@@ -40,6 +40,7 @@ Sudoku — Project Plan
         -Very Few Starting Numbers
         -Zero Number of Erasing 
         -No Duplicate Detection 
+5. Figma Design link [https://www.figma.com/design/vWnfMDhvig69KiNLQUm8Zs/Project_Sudoku?node-id=0-1&t=lcVnwuQ3GfrV4f9q-1]
         
         
 
